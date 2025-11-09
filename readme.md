@@ -34,7 +34,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/velocity-deleter.git
+git clone https://github.com/valysse/velocity-deleter.git
 cd velocity-deleter
 ```
 
@@ -45,7 +45,7 @@ pip install requests
 
 3. **Run Velocity Deleter**
 ```bash
-python velocity_deleter.py
+python main.py
 ```
 
 ## 🔑 Getting Your Discord Token
@@ -121,15 +121,8 @@ python velocity_deleter.py
 
 ## 🎨 Screenshots
 
-```
-    ╦  ╦┌─┐┬  ┌─┐┌─┐┬┌┬┐┬ ┬  ╔╦╗┌─┐┬  ┌─┐┌┬┐┌─┐┬─┐
-    ╚╗╔╝├┤ │  │ ││  │ │ └┬┘   ║║├┤ │  ├┤  │ ├┤ ├┬┘
-     ╚╝ └─┘┴─┘└─┘└─┘┴ ┴  ┴   ╩╩╝└─┘┴─┘└─┘ ┴ └─┘┴└─
-
-    ⚡ The fastest Discord message deletion tool ⚡
-    [!] WARNING: Self-botting violates Discord ToS
-    ═══════════════════════════════════════════════
-```
+## 🌟 Support the Project
+**Love Velocity**? Leave us a ⭐ on GitHub!
 
 ## 🤝 Contributing
 
