@@ -72,7 +72,7 @@ python main.py
   - Safer for large deletion operations
   
 - **Fast Mode**: 0.35 second delay between deletions
-> [!Higher ban risk]
+> [!WARNING]
 > Use for smaller operations or at your own risk
 
 ### Available Options
