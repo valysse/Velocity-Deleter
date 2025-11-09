@@ -72,8 +72,8 @@ python main.py
   - Safer for large deletion operations
   
 - **Fast Mode**: 0.35 second delay between deletions
-  - ⚠️ Higher ban risk
-  - Use for smaller operations or at your own risk
+> [!Higher ban risk]
+> Use for smaller operations or at your own risk
 
 ### Available Options
 
@@ -121,9 +121,6 @@ python main.py
 
 ## 🎨 Screenshots
 
-## 🌟 Support the Project
-**Love Velocity**? Leave us a ⭐ on GitHub!
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -155,12 +152,15 @@ This tool is provided for educational purposes only. The developers are not resp
 
 ---
 
+## 🌟 Support the Project
+**Love Velocity**? Leave us a ⭐ on GitHub!
+
 <div align="center">
 
 **Made with 💜 by the Velocity Team**
 
 ⚡ *Speed meets Power* ⚡
 
-[Report Bug](https://github.com/yourusername/velocity-deleter/issues) · [Request Feature](https://github.com/yourusername/velocity-deleter/issues)
+[Report Bug](https://github.com/valysse/velocity-deleter/issues) · [Request Feature](https://github.com/valysse/velocity-deleter/issues)
 
 </div>
